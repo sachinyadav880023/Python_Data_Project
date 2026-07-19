@@ -135,7 +135,7 @@ plt.gca().xaxis.set_major_formatter(ticks_x)
 plt.show()
 ~~~
 ### Results
-![Box plot visualizing](project%20python%201\images\BoxPlot.png)
+![Box plot visualizing](project%20python%201/images/BoxPlot.png)
 
 Box plot visualizing the salary distributions for the top 6 data job titles.
 
@@ -164,7 +164,7 @@ plt.show()
 ### Result
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the US:
 
-![BartPlot](project%20python%201\images\BartPlot.png)
+![BartPlot](project%20python%201/images/BartPlot.png)
 
 skills and most in-demand skills for data analysts in the US.
 
@@ -189,7 +189,7 @@ plt.scatter(df_DA_skills_high_demand['skill_percent'], df_DA_skills_high_demand[
 plt.show()
 ~~~
 ### Results
-![ScatPlot](project%20python%201\images\ScatPlot.png)
+![ScatPlot](project%20python%201/images/ScatPlot.png)
 
 A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US.
 
@@ -219,7 +219,7 @@ scatter = sns.scatterplot(
 plt.show()
 ~~~
 ## Results
-![Scat](project%20python%201\images\ScatterPlot.png)
+![Scat](project%20python%201/images/ScatterPlot.png)
 
 A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology.
 
