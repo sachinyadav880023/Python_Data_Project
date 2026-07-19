@@ -113,7 +113,7 @@ plt.show()
 ~~~
 ### result
 
-![Skill Demand](project%20python%201\images\LineChart.png)
+![Skill Demand Present](project%20python%201\images\LineChart.png)
 
 Bar graph visualizing the trending top skills for data analysts in the US in 2023.
 
@@ -135,7 +135,7 @@ plt.gca().xaxis.set_major_formatter(ticks_x)
 plt.show()
 ~~~
 ### Results
-![Box plot visualizing the salary distributions for the top 6 data job titles.](project%20python%201\images\BoxPlot.png)
+![Box plot visualizing](project%20python%201\images\BoxPlot.png)
 
 Box plot visualizing the salary distributions for the top 6 data job titles.
 
