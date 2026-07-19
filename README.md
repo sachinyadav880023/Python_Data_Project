@@ -113,7 +113,7 @@ plt.show()
 ~~~
 ### result
 
-![Skill Demand Present](project%20python%201\images\LineChart.png)
+![Skill Demand](project%20python%201\images\LineChart.png)
 
 Bar graph visualizing the trending top skills for data analysts in the US in 2023.
 
